@@ -1,0 +1,58 @@
+{
+  "clientes": [
+    {
+      "nombre": "Carlos",
+      "apellido": "Artunduaga",
+      "empresa": "sofka",
+      "email": "dvsdv@snbc.com",
+      "telefono": "+573126482921",
+      "notas": "lllll",
+      "id": 1
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Artunduaga",
+      "empresa": "sofka",
+      "email": "dvsdv@snbc.com",
+      "telefono": "+573126482921",
+      "notas": "lllll",
+      "id": 2
+    },
+    {
+      "nombre": "Carlos",
+      "apellido": "Artunduaga",
+      "empresa": "sofka",
+      "email": "dvsdv@snbc.com",
+      "telefono": "+573126482921",
+      "notas": "lllll",
+      "id": 3
+    },
+    {
+      "nombre": "ascascasca",
+      "apellido": "ascascascacsas",
+      "empresa": "asc",
+      "email": "asc@gmail.com",
+      "telefono": "+573126482921",
+      "notas": "ascasc",
+      "id": 4
+    },
+    {
+      "nombre": "vcsdvsdvs",
+      "apellido": "sdvsdvsdv",
+      "empresa": "scsc",
+      "email": "scs@h.com",
+      "telefono": "+573126482921",
+      "notas": "s",
+      "id": 5
+    },
+    {
+      "nombre": "aascasc",
+      "apellido": "ascascascsca",
+      "empresa": "sofka",
+      "email": "cartunduaga@gmail.com",
+      "telefono": "+573126482921",
+      "notas": "sss",
+      "id": 6
+    }
+  ]
+}
